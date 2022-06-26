@@ -1,4 +1,4 @@
-<p align="center"><a href=Eagle Userbot"></a>
+<b>Eagle Userbot</b>
 
 <p align="center"><a href="https://telegram.dog/EAGLEUB"><img src="https://te.legra.ph/file/543a358625382cc27fd2b.jpg"></a></p>
 
@@ -37,6 +37,7 @@
 
 </details
 
+--------
 
 # Credits & Inspirations 
 
