@@ -1,4 +1,4 @@
-<b>Eagle Userbot</b>
+# Eagle Userbot
 
 <p align="center"><a href="https://telegram.dog/EAGLEUB"><img src="https://te.legra.ph/file/543a358625382cc27fd2b.jpg"></a></p>
 
@@ -35,7 +35,7 @@
 
 <p align="left"><a href="https://telegra.ph/How-to-Self-Host-Eagle-Userbot-06-19"><img src="https://img.shields.io/badge/Read%20Quick%20Guide-blue?style=for-the-badge&logo=none" width="150""/</a>  </p>
 
-</details
+</details>
 
 --------
 
