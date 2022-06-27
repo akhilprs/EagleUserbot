@@ -39,8 +39,6 @@
 
 </details>
 
---------
-
 # Credits & Inspirations 📝
 
 - [Userge](https://github.com/UsergeTeam/Userge)
