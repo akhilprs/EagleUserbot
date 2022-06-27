@@ -1,6 +1,4 @@
-<h1 align="center">
-  <b>Eagle Userbot </b>
-</h1>
+# Eagle Userbot
 
 [![Stars](https://img.shields.io/github/stars/akhilprs/EagleUserbot?style=flat-square&color=yellow)](https://github.com/akhilprs/EagleUserbot/stargazers)
 [![Forks](https://img.shields.io/github/forks/akhilprs/EagleUserbot?style=flat-square&color=orange)](https://github.com/akhilprs/EagleUserbot/fork)
