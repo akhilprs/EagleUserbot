@@ -13,20 +13,14 @@
     &nbsp•&nbsp
     <a href="https://github.com/UsergeTeam/Userge#project-credits-">Project Credits</a>
     &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#copyright--license-">Copyright & License</a>
+    <a [![Stars](https://img.shields.io/github/stars/EagleUBTG/EagleUserbot?style=flat-square&color=yellow)](https://github.com/EagleUBTG/EagleUserbot/stargazers">Star</a>
 </p>
 
-------
-
 <h1 align="center">
-  <b>Eagle Userbot</b>
+  <b>Eagle Userbot </b>
 </h1>
 
-<p align="center"><a href="https://telegram.dog/EAGLEUB"><img src="https://te.legra.ph/file/543a358625382cc27fd2b.jpg"></a></p>
 
-------
-
-[![Stars](https://img.shields.io/github/stars/EagleUBTG/EagleUserbot?style=flat-square&color=yellow)](https://github.com/EagleUBTG/EagleUserbot/stargazers)
 [![Forks](https://img.shields.io/github/forks/EagleUBTG/EagleUserbot?style=flat-square&color=orange)](https://github.com/EagleUBTG/EagleUserbot/fork)
 [![Size](https://img.shields.io/github/repo-size/EagleUBTG/EagleUserbot?style=flat-square&color=green)](https://github.com/EagleUBTG/EagleUserbot/size)   
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
