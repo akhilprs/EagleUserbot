@@ -7,6 +7,8 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/akhilprs/EagleUserbot/blob/main/LICENSE)   
 [![My Channel](https://img.shields.io/badge/Telegram-Personal%20Channel-informational)](https://telegram.dog/akhilprs)
 
+Note :- This is the stable version of Eagle Userbot... More features will be added in next update...!!!
+
 ## Installing ⬇️
 
 > Click on options to expand. In general, you need a hosting server to run your bot.
