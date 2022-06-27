@@ -18,7 +18,7 @@
 
 # Installing 
 
-> Click on options to expand. This will show you the details of hosting templates via different platforms and a quick guide.
+> Click on options to expand. In general, you need a hosting server to run your bot.
 
 <details>
 
