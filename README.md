@@ -68,7 +68,6 @@ All the stuffs & designs crafted by [@akhilprs](https://github.com/akhilprs).
 
 # Disclaimer
 
-```  
  Terms and Conditions To Use this Source Code ~
       
  Your account may be banned...!!!
@@ -84,8 +83,5 @@ All the stuffs & designs crafted by [@akhilprs](https://github.com/akhilprs).
  And in last your account gets banned. 
  
  Thanks a Lot for Being Here !
-
-```
-
 
 
