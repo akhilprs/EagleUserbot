@@ -5,15 +5,12 @@
     <br>
     <b>A Smooth Telegram UserBot</b>
     <br>
-    <a href="https://github.com/UsergeTeam/Userge#inspiration-">Inspiration</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#documentation-">Documentation</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#deployment-">Deployment</a>
-    &nbsp•&nbsp
-    <a href="https://github.com/UsergeTeam/Userge#project-credits-">Project Credits</a>
-    &nbsp•&nbsp
-    <a [![Stars](https://img.shields.io/github/stars/EagleUBTG/EagleUserbot?style=flat-square&color=yellow)](https://github.com/EagleUBTG/EagleUserbot/stargazers">Star</a>
+    [![Forks](https://img.shields.io/github/forks/EagleUBTG/EagleUserbot?style=flat-square&color=orange)](https://github.com/EagleUBTG/EagleUserbot/fork)
+    [![Size](https://img.shields.io/github/repo-size/EagleUBTG/EagleUserbot?style=flat-square&color=green)](https://github.com/EagleUBTG/EagleUserbot/size)   
+    [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+    [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EagleUBTG/EagleUserbot/blob/main/LICENSE)   
+    ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
+    [![My Channel](https://img.shields.io/badge/Telegram-Personal%20Channel-informational)](https://telegram.dog/akhilprs)
 </p>
 
 <h1 align="center">
