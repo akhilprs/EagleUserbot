@@ -2,10 +2,6 @@
   <b>Eagle Userbot </b>
 </h1>
 
-<p align="center"><a href="https://telegram.dog/EAGLEUB"><img src="https://te.legra.ph/file/543a358625382cc27fd2b.jpg"></a></p>
-
-------
-
 [![Stars](https://img.shields.io/github/stars/akhilprs/EagleUserbot?style=flat-square&color=yellow)](https://github.com/akhilprs/EagleUserbot/stargazers)
 [![Forks](https://img.shields.io/github/forks/akhilprs/EagleUserbot?style=flat-square&color=orange)](https://github.com/akhilprs/EagleUserbot/fork)
 [![Size](https://img.shields.io/github/repo-size/akhilprs/EagleUserbot?style=flat-square&color=green)](https://github.com/akhilprs/EagleUserbot/size)   
@@ -13,7 +9,6 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/akhilprs/EagleUserbot/blob/main/LICENSE)   
 [![My Channel](https://img.shields.io/badge/Telegram-Personal%20Channel-informational)](https://telegram.dog/akhilprs)
 
-------
 
 # Installing ⬇️
 
