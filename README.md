@@ -34,7 +34,7 @@
 
 # Credits & Inspirations 📝
 
-- [Userge](https://github.com/UsergeTeam/Userge)
+- [Nana-Remix](https://github.com/karandon24/Nana-Remix)
 - [Pyrogram](https://github.com/Pyrogram/Pyrogram)
 
 # Contributing ✍️
