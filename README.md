@@ -41,7 +41,7 @@
 
 # Credits & Inspirations 📝
 
-- [Uniborg](https://github.com/SpEcHiDe/UniBorg)
+- [Userge](https://github.com/UsergeTeam/Userge)
 - [Pyrogram](https://github.com/Pyrogram/Pyrogram)
 
 # Contributing ✍️
