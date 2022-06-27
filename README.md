@@ -70,7 +70,7 @@ All the stuffs & designs crafted by [@akhilprs](https://github.com/akhilprs).
 
  Terms and Conditions to use this Source Code ~
       
- Your account may be banned...!!!
+ Your account may be **banned**...!!!
  Before Deployment, Pls make sure that you have 
  enabled two step verification. 
 
