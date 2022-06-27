@@ -49,14 +49,14 @@
 
 # Contributing 
 
-If you want to say thank you or/and support the project 
+If you want to say thank you or/and support the project !
 
 - Add a star to the repository.
 - Fork the Repo.
 - Opening a pull request in the repository, I will check it out as soon as possible.
-- Giving feedback as it was made for **learning purpose**.
+- Give your feedback as it was made for **learning purpose**.
 
-Together, we can make this project better!
+Together, we can make this project better !
 You can join our support community, and get the updates at [Official Update Channel](https://telegram.dog/EAGLEUB).
 
 # License & Copyright
