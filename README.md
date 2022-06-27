@@ -10,6 +10,10 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EagleUBTG/EagleUserbot/blob/main/LICENSE)   
 [![My Channel](https://img.shields.io/badge/Telegram-Personal%20Channel-informational)](https://telegram.dog/akhilprs)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
+[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+![Branch](https://img.shields.io/badge/Branch-Master-orange)
+![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?color=Pink&label=Language&style=flat-square)
 
 ------
 
