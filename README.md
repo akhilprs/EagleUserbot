@@ -6,11 +6,11 @@
 
 ------
 
-[![Stars](https://img.shields.io/github/stars/EagleUBTG/EagleUserbot?style=flat-square&color=yellow)](https://github.com/EagleUBTG/EagleUserbot/stargazers)
-[![Forks](https://img.shields.io/github/forks/EagleUBTG/EagleUserbot?style=flat-square&color=orange)](https://github.com/EagleUBTG/EagleUserbot/fork)
-[![Size](https://img.shields.io/github/repo-size/EagleUBTG/EagleUserbot?style=flat-square&color=green)](https://github.com/EagleUBTG/EagleUserbot/size)   
+[![Stars](https://img.shields.io/github/stars/akhilprs/EagleUserbot?style=flat-square&color=yellow)](https://github.com/akhilprs/EagleUserbot/stargazers)
+[![Forks](https://img.shields.io/github/forks/akhilprs/EagleUserbot?style=flat-square&color=orange)](https://github.com/akhilprs/EagleUserbot/fork)
+[![Size](https://img.shields.io/github/repo-size/akhilprs/EagleUserbot?style=flat-square&color=green)](https://github.com/akhilprs/EagleUserbot/size)   
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EagleUBTG/EagleUserbot/blob/main/LICENSE)   
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/akhilprs/EagleUserbot/blob/main/LICENSE)   
 [![My Channel](https://img.shields.io/badge/Telegram-Personal%20Channel-informational)](https://telegram.dog/akhilprs)
 
 ------
