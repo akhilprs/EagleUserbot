@@ -16,7 +16,7 @@
 
 ------
 
-# Installing 
+# Installing ⬇️
 
 > Click on options to expand. In general, you need a hosting server to run your bot.
 
@@ -42,12 +42,12 @@
 
 --------
 
-# Credits & Inspirations 
+# Credits & Inspirations 📝
 
 - [Userge](https://github.com/UsergeTeam/Userge)
 - [Pyrogram](https://github.com/Pyrogram/Pyrogram)
 
-# Contributing 
+# Contributing ✍️
 
 If you want to say thank you or/and support the project !
 
@@ -60,28 +60,32 @@ Together, we can make this project better!
 
 You can join our support community, and get the updates at [Official Update Channel](https://telegram.dog/EAGLEUB).
 
-# License & Copyright
+# License & Copyright 🔐
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
 Eagle Userbot is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 All the stuffs & designs crafted by [@akhilprs](https://github.com/akhilprs).
 
-# Disclaimer
+## Disclaimer ⚠️
 
  Terms and Conditions To Use this Source Code ~
       
  Your account may be banned...!!!
  Before Deployment, Pls make sure that you have 
- enabled two step verification. Never Share your String Session, 
+ enabled two step verification. 
+
+ Never Share your String Session, 
  avoid sharing your String Session even someone is saying 
- they are from Telegram. Please be aware Telegram never ask for string session.
+ they are from Telegram. 
+ Please be aware Telegram never ask for string session.
  Fork at your own risk, 
  if you do any mistake that result into account ban then 
  I will not be responsible anymore. Watch tutorials if you are new.
+ 
  It's your concern if your account gets banned...
  If you keep spamming and spamming and got reported again and again..
  And in last your account gets banned. 
  
- Thanks a Lot for Being Here !
+ Thanks a Lot for being here !
 
 
