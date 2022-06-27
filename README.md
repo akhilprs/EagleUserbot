@@ -4,14 +4,6 @@
     </a>
     <br>
     <b>A Smooth Telegram UserBot</b>
-    <br>
-    [![Forks](https://img.shields.io/github/forks/EagleUBTG/EagleUserbot?style=flat-square&color=orange)](https://github.com/EagleUBTG/EagleUserbot/fork)
-    [![Size](https://img.shields.io/github/repo-size/EagleUBTG/EagleUserbot?style=flat-square&color=green)](https://github.com/EagleUBTG/EagleUserbot/size)   
-    [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-    [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EagleUBTG/EagleUserbot/blob/main/LICENSE)   
-    ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
-    [![My Channel](https://img.shields.io/badge/Telegram-Personal%20Channel-informational)](https://telegram.dog/akhilprs)
-</p>
 
 <h1 align="center">
   <b>Eagle Userbot </b>
