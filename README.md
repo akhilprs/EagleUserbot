@@ -1,3 +1,23 @@
+<p align="center">
+    <a href="https://github.com/akhilprs/EagleUserbot">
+        <img src="https://te.legra.ph/file/543a358625382cc27fd2b.jpg" alt="Userge">
+    </a>
+    <br>
+    <b>A Smooth Telegram UserBot</b>
+    <br>
+    <a href="https://github.com/UsergeTeam/Userge#inspiration-">Inspiration</a>
+    &nbsp•&nbsp
+    <a href="https://github.com/UsergeTeam/Userge#documentation-">Documentation</a>
+    &nbsp•&nbsp
+    <a href="https://github.com/UsergeTeam/Userge#deployment-">Deployment</a>
+    &nbsp•&nbsp
+    <a href="https://github.com/UsergeTeam/Userge#project-credits-">Project Credits</a>
+    &nbsp•&nbsp
+    <a href="https://github.com/UsergeTeam/Userge#copyright--license-">Copyright & License</a>
+</p>
+
+------
+
 <h1 align="center">
   <b>Eagle Userbot</b>
 </h1>
