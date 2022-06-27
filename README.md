@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/akhilprs/EagleUserbot/blob/main/LICENSE)   
 [![My Channel](https://img.shields.io/badge/Telegram-Personal%20Channel-informational)](https://telegram.dog/akhilprs)
 
-# Installing ⬇️
+## Installing ⬇️
 
 > Click on options to expand. In general, you need a hosting server to run your bot.
 
@@ -31,12 +31,12 @@
 
 </details>
 
-# Credits & Inspirations 📝
+## Credits & Inspirations 📝
 
 - [Nana-Remix](https://github.com/karandon24/Nana-Remix)
 - [Pyrogram](https://github.com/Pyrogram/Pyrogram)
 
-# Contributing ✍️
+## Contributing ✍️
 
 If you want to say thank you or/and support the project !
 
@@ -49,13 +49,13 @@ Together, we can make this project better!
 
 You can join our support community, and get the updates at [Official Update Channel](https://telegram.dog/EAGLEUB).
 
-# License & Copyright 🔐
+## License & Copyright 🔐
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
 Eagle Userbot is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 All the stuffs & designs crafted by [@akhilprs](https://github.com/akhilprs).
 
-# Disclaimer ⚠️
+## Disclaimer ⚠️
 
  Terms and Conditions to use this Source Code ~
       
