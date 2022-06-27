@@ -22,13 +22,13 @@ LOG_CHAT = LOG_CHAT
 
 @app.on_message(filters.command("clearwelcome", PREFIX) & filters.me)
 async def welcome(client, message):
-    await Zectdb.clear_welcome(str(message.chat.id))
+    await eagledb.clear_welcome(str(message.chat.id))
     await message.edit("**I am sulking not to say hello anymore :(**")
 
 
 @app.on_message(filters.create(welcome_chat) & filters.new_chat_members, group=-2)
 async def new_welcome(client, message):
-    msg_id = await Zectdb.get_welcome(str(message.chat.id))
+    msg_id = await eagledb.get_welcome(str(message.chat.id))
     caption = ""
     men = ""
     msg = await app.get_messages(LOG_CHAT, msg_id)
@@ -90,5 +90,5 @@ async def setwelcome(client, message):
         return
     frwd = await app.copy_message(LOG_CHAT, message.chat.id, reply.message_id)
     msg_id = frwd.message_id
-    await Zectdb.save_welcome(str(message.chat.id), msg_id)
+    await eagledb.save_welcome(str(message.chat.id), msg_id)
     await message.edit("**Welcome message has been saved.**")
