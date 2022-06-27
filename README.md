@@ -56,7 +56,8 @@ If you want to say thank you or/and support the project !
 - Opening a pull request in the repository, I will check it out as soon as possible.
 - Give your feedback as it was made for **learning purpose**.
 
-Together, we can make this project better !
+Together, we can make this project better!
+
 You can join our support community, and get the updates at [Official Update Channel](https://telegram.dog/EAGLEUB).
 
 # License & Copyright
