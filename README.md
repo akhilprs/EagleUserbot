@@ -47,19 +47,23 @@
 - [Userge](https://github.com/UsergeTeam/Userge)
 - [Pyrogram](https://github.com/Pyrogram/Pyrogram)
 
+# Contributing 
+
+If you want to say thank you or/and support the project 
+
+- Add a star to the repository.
+- Fork the Repo.
+- Opening a pull request in the repository, I will check it out as soon as possible.
+- Giving feedback as it was made for **learning purpose**.
+
+Together, we can make this project better!
+You can join our support community, and get the updates at [Official Update Channel](https://telegram.dog/EAGLEUB).
+
 # License & Copyright
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
 Eagle Userbot is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 All the stuffs & designs crafted by [@akhilprs](https://github.com/akhilprs).
-
-# Notes 
-
-If you find any bugs/issues you can report them by:
-
-- Opening a pull request in the repository, I will check it out as soon as possible.
-- This project was made for learning purpose, give me feedback as much as possible.
-- You can join support community, and get the updates at [Official Update Channel](https://telegram.dog/EAGLEUB).
 
 # Disclaimer
 
