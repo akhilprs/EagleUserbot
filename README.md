@@ -73,10 +73,6 @@ All the stuffs & designs crafted by [@akhilprs](https://github.com/akhilprs).
  Before Deployment, Pls make sure that you have 
  enabled two step verification. 
 
- Never Share your String Session, 
- avoid sharing your String Session even someone is saying 
- they are from Telegram. 
- Please be aware Telegram never ask for string session.
  Fork at your own risk, 
  if you do any mistake that result into account ban then 
  I will not be responsible anymore. Watch tutorials if you are new.
