@@ -7,7 +7,6 @@
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/akhilprs/EagleUserbot/blob/main/LICENSE)   
 [![My Channel](https://img.shields.io/badge/Telegram-Personal%20Channel-informational)](https://telegram.dog/akhilprs)
 
-
 # Installing ⬇️
 
 > Click on options to expand. In general, you need a hosting server to run your bot.
