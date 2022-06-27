@@ -1,4 +1,6 @@
-# Eagle Userbot
+<h1 align="center">
+  <b>Eagle Userbot</b>
+</h1>
 
 <p align="center"><a href="https://telegram.dog/EAGLEUB"><img src="https://te.legra.ph/file/543a358625382cc27fd2b.jpg"></a></p>
 
