@@ -48,7 +48,7 @@ async def pspam(bot, message):
             counter = int(predator[0])
             username = f"[{c}](tg://user?id={g})"
             for _ in range(counter):
-                reply = random.choice(RAID)
+                reply = random.choice(PORN)
                 caption = f"{username} {reply}"
                 async with e.client.action(e.chat_id, "typing"):
                     await e.client.send_message(e.chat_id, caption)
