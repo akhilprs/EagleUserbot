@@ -3,6 +3,9 @@ from Eagle import *
 from resources.porn import PORN
 import os 
 from pyrogram import Client, filters 
+from Eagle import app, CMD_HELP
+from config import PREFIX
+
 
 que = {}
 
