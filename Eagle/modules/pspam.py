@@ -6,6 +6,14 @@ from pyrogram import Client, filters
 from Eagle import app, CMD_HELP
 from config import PREFIX
 
+CMD_HELP.update(
+    {
+        "Porn Spam": """
+🦅 **Porn Spam** 🦅
+  `pspam` ~ Spam 18+ GIF/ Videos, 18+ Don't use this, not made for kids 🙂.  
+"""
+    }
+)
 
 que = {}
 
