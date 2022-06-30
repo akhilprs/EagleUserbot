@@ -1,3 +1,8 @@
+# Orignal File :- https://github.com/TheMafiaBot/MafiaSpamBot/blob/main/spambot/helpers/gspam.py
+# Thanks to @H1M4N5HU0P for allowing me to use this source files in my project.
+# Not for kids... 18+ helpers 
+
+
 ABUSE = [
     "TERIII BHENNN KO CHOD CHODDD  KRRR MAAR DALUNGAAA FIRR USKII LASHH KO KUTTO KO DAL DUNGA ",
     "TERIII MAAA KI XHUTTT MEEE GARAAAM DANDAA DAL DUNGAAAAA FIR TERII MAA KI CHUT SE DHUA NIKLEGAA USS DHUEE SE TERAAAA BAAAP SMOKEE KREGAAAA",
