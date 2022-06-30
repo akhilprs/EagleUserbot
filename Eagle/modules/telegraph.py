@@ -2,16 +2,18 @@ import os
 from telegraph import upload_file
 
 from pyrogram import Filters
-from Eagle import Commmand, app
 
-__MODULE__ = "Telegra.ph"
-__HELP__ = """
-Paste Media Documents on Telegra.ph
-──「 **Telegra.ph** 」──
--> `telegraph (reply to a media)`
-Reply to Media as args to upload it to telegraph.
-- Supported Media Types (.jpg, .jpeg, .png, .gif, .mp4)
+from Eagle import app, CMD_HELP
+from config import PREFIX
+
+CMD_HELP.update(
+    {
+        "Telegraph": """
+🦅 **Telegraph** 🦅
+  `telegraph` ~ make link of the given media.  
 """
+    }
+)
 
 
 @app.on_message(dilters.me & Filters.command(["telegraph"], Command))
