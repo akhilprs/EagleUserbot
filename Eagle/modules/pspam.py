@@ -12,9 +12,9 @@
 #        "Porn Spam": """
 #🦅 **Porn Spam** 🦅
 #  `pspam` ~ Spam 18+ GIF/ Videos, 18+ Don't use this, not made for kids 🙂.  
-"""
-    }
-)
+# """
+ #   }
+# )
 
 # que = {}
 
@@ -64,7 +64,7 @@
 #                caption = f"{username} {reply}"
  #               async with e.client.action(e.chat_id, "typing"):
 #                    await e.client.send_message(e.chat_id, caption)
-                    await asyncio.sleep(0.3)
-        else:
-            await e.reply( parse_mode=None, link_preview=None )
+ #                   await asyncio.sleep(0.3)
+    #    else:
+ #           await e.reply( parse_mode=None, link_preview=None )
         
