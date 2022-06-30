@@ -1,6 +1,6 @@
 # Original file here :- https://github.com/TheMafiaBot/MafiaSpamBot/blob/main/spambot/helpers/plinks.py
 # Thanks to @H1M4N5HU0P for allowing me to use this source files in my project.
-
+# These modules are not for kids, stay away..!!!
 
 PORN = [
     "https://telegra.ph/file/9bcc076fd81dfe3feb291.mp4",
