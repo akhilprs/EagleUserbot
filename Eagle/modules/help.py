@@ -16,7 +16,6 @@ HELP.update(
         "**Sticker**": "__kang, stkrinfo__",
         "**Greetings**": "__setwelcome, clearwelcome__",
         "**Updater**": "__update__",
-        "➖➖➖➖➖➖➖➖➖➖➖➖➖",
         "© @EAGELUB",
     }
 )
