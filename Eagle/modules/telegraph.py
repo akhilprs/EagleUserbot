@@ -16,7 +16,7 @@ CMD_HELP.update(
 )
 
 
-@app.on_message(dilters.me & Filters.command(["telegraph"], Command))
+@app.on_message(filters.command("telegraph", PREFIX) & filters.me)
 async def telegraph(client, message):
     replied = message.reply_to_message
     if not replied:
