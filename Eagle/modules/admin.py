@@ -1,3 +1,5 @@
+# Thanks to @H1M4N5HU0P for solving some errors.
+
 import time
 import asyncio
 from pyrogram import filters
@@ -14,7 +16,7 @@ from pyrogram import enums
 
 Administrator = []
 
-admins = app.get_chat_members(filters=enums.ChatMembersFilter.ADMINISTRATOR)
+admins = bot.get_chat_members(chat_id, filters=enums.ChatMembersFilter.ADMINISTRATORS)
 
 for admin in admins:
     Administrator.append(admin)
