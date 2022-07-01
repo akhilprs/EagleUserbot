@@ -16,7 +16,7 @@ from pyrogram import enums
 
 Administrator = []
 
-admins = app.get_chat_members(filters=enums.ChatMembersFilter.ADMINISTRATORS)
+admins = app.get_chat_members(filter=enums.ChatMembersFilter.ADMINISTRATORS)
 
 for admin in admins:
     Administrator.append(admin)
