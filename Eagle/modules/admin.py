@@ -6,22 +6,14 @@ from pyrogram import filters
 from pyrogram.types import Message, ChatPermissions
 
 from pyrogram.errors import UserAdminInvalid
+from pyrogram.methods.chats.get_chat_members import Filter as ChatMemberFilters
+
 
 from Eagle import app, CMD_HELP, LOGGER
 from Eagle.helpers.pyrohelper import get_arg, get_args
 from Eagle.helpers.adminhelpers import CheckAdmin
 from config import PREFIX
 
-from pyrogram import enums
-
-Administrator = []
-
-admins = app.get_chat_members(chat_id, filter=enums.ChatMembersFilter.ADMINISTRATORS)
-
-for admin in admins:
-    Administrator.append(admin)
-
-print(Administrator)
 
 CMD_HELP.update(
     {
