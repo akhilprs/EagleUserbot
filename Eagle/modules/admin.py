@@ -6,7 +6,7 @@ from pyrogram import filters
 from pyrogram.types import Message, ChatPermissions
 
 from pyrogram.errors import UserAdminInvalid
-from pyrogram.methods.chats.get_chat_members import Filter as ChatMemberFilters
+from pyrogram.methods.chats.get_chat_members import Filter as ChatMemberFilter
 
 
 from Eagle import app, CMD_HELP, LOGGER
