@@ -5,6 +5,7 @@ import asyncio
 from pyrogram import filters
 from pyrogram.types import Message, ChatPermissions
 
+from pyrogram import raw, types, enums
 from pyrogram.errors import UserAdminInvalid
 from pyrogram.methods.chats.get_chat_members import Filter as ChatMemberFilter
 
