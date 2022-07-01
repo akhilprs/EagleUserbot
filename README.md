@@ -44,7 +44,7 @@ If you want to say thank you or/and support the project !
 
 - Add a star to the repository.
 - Fork the Repo.
-- Opening a pull request in the repository, I will check it out as soon as possible.
+- Help me solve issues with **fix** by opening pull request.
 - Give your feedback as it was made for **learning purpose**.
 
 Together, we can make this project better!
