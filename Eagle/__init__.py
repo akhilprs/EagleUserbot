@@ -1,7 +1,7 @@
 import logging
-import sys
+
 import time
-from pyrogram import Client, errors
+from pyrogram import Client
 from config import API_HASH, API_ID, SESSION
 import logging
 
@@ -19,9 +19,9 @@ CMD_HELP = {}
 
 StartTime = time.time()
 
-API_ID = API_ID
-API_HASH = API_HASH
-SESSION = SESSION
+
+
+
 
 app = Client(name="eagle", session_string=SESSION, api_id=API_ID, api_hash=API_HASH)
 
