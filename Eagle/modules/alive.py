@@ -51,7 +51,7 @@ def get_readable_time(seconds: int) -> str:
     return ping_time
 
 
-@app.on_message(filters.regex('.alive', PREFIX) & filters.me)
+@app.on_message(filters.regex('.alive') & filters.me)
 async def alive(_, m):
     start_time = time.time()
     uptime = get_readable_time((time.time() - StartTime))
