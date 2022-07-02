@@ -37,7 +37,7 @@
 
 - [Himanshu](https://github.com/H1M4N5HU0P) for fixing some errors.
 - [Nana-Remix](https://github.com/karandon24/Nana-Remix) for providing a base code.
-- [Pyrogram](https://github.com/Pyrogram/Pyrogram) for it's cool Library.
+- [Pyrogram](https://github.com/Pyrogram/Pyrogram) for its cool Library.
 
 ## Contributing ✍️
 
