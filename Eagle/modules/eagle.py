@@ -1,5 +1,6 @@
 import os 
 from pyrogram import Client, filters 
+from Eagle import app
 from html_telegraph_poster.upload_images import upload_image 
 
 
