@@ -56,10 +56,10 @@ async def alive(_, m):
     start_time = time.time()
     uptime = get_readable_time((time.time() - StartTime))
     reply_msg = f"**[Running Eagle Bot...!!!](https://github.com/akhilprs/EagleUserbot )**\n"
-    reply_msg += f"**Python**: `{__python_version__}`\n"
-    reply_msg += f"**Pyrogram Version**: `{pyroversion}`\n"
+    reply_msg += f"**★➾ Python**: `{__python_version__}`\n"
+    reply_msg += f"**★➾ Pyrogram Version**: `{pyroversion}`\n"
     end_time = time.time()
-    reply_msg += f"**Eagle Uptime**: {uptime}"
+    reply_msg += f"**★➾ Eagle Uptime**: {uptime}"
     photo = "https://te.legra.ph/file/543a358625382cc27fd2b.jpg"
     await m.delete()
     if m.reply_to_message:
@@ -76,7 +76,7 @@ async def alive(_, m):
 @app.on_message(filters.command("ping", PREFIX) & filters.me)
 async def pingme(_, message: Message):
     start = datetime.now()
-    await message.edit("`Pong!`")
+    await message.edit("`Pinging...`")
     end = datetime.now()
     m_s = (end - start).microseconds / 1000
-    await message.edit(f"**Pong!**\n`{m_s} ms`")
+    await message.edit(f"**• 𝑷𝑶𝑵𝑮  ﮩﮩ٨**\n`{m_s} ms`")
