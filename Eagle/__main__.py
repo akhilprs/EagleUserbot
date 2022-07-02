@@ -10,7 +10,7 @@ from pathlib import Path
 
 # PLUGIN LOAD SUPPORT BY @H1M4N5HU0P
 
-def load_plugs(plugname)
+def load_plugs(plugname):
     modules = Path(f"Eagle/modules/{plugname}.py")
     myfiles = f"Eagle.modules.{plugname}"
     spec = importlib.util.spec_from_file_location(myfiles, modules)
