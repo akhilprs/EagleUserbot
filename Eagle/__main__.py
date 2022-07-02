@@ -33,10 +33,10 @@ if __name__ == "__main__":
 
 uvloop.install() # speedup
 
+if __name__ == "__main__":
+    app.run()
 
 me = app.get_me()
 print(f"Your Eagle Userbot is ready to fly... Congratulations {me.id} !!. Type {PREFIX}alive to check If your bot is working... Join @EAGLEUB for future updates...")
 
 
-if __name__ == "__main__":
-    app.run()
