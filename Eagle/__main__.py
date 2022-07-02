@@ -16,7 +16,7 @@ def load_plugs(plugname):
     spec = importlib.util.spec_from_file_location(myfiles, modules)
     load = importlib.util.module_from_spec(spec)
     load.logger = logging.getLogger(plugname)
-    spec.loader exec_module(load)
+    spec.loader.exec_module(load)
     sys.modules["Eagle.modules." + plugname] = load
     print("Eagle Userbot - Successfully Imported " plugname)
 
