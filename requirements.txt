@@ -1,4 +1,5 @@
 pyrogram==2.0.30
+html-telegraph-poster
 tgcrypto
 aiohttp==3.6.2
 google_trans_new
