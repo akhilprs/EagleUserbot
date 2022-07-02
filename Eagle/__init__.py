@@ -24,3 +24,6 @@ API_HASH = API_HASH
 SESSION = SESSION
 
 app = Client(name="eagle", session_string=SESSION, api_id=API_ID, api_hash=API_HASH)
+
+with app:
+    app.send_message("me", "Bot Deployed Successfully")
