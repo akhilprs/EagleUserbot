@@ -1,4 +1,4 @@
-
+from config import PREFIX 
 
 from Eagle import *
 import logging
