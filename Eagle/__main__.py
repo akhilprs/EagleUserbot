@@ -3,6 +3,9 @@ from config import PREFIX
 from Eagle import app, LOGGER
 import logging
 from Eagle.modules import *
+import uvloop
+
+uvloop.install() # speedup
 
 app.start()
 me = app.get_me()
