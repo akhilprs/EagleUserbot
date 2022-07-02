@@ -18,7 +18,7 @@ def load_plugs(plugname):
     load.logger = logging.getLogger(plugname)
     spec.loader.exec_module(load)
     sys.modules["Eagle.modules." + plugname] = load
-    print("Eagle Userbot - Successfully Imported " plugname)
+    print("Eagle Userbot - Successfully Imported " + plugname)
 
 if __name__ == "__main__":
     modules = "Eagle/modules/*.py"
