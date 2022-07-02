@@ -31,7 +31,7 @@ if __name__ == "__main__":
             load_plugs(plugname.replace(".py", ""))
 
 
-print(f"Your Eagle Userbot is ready to fly... Congratulations {me.id} !!. Type {PREFIX}alive to check If your bot is working... Join @EAGLEUB for future updates...")
+print(f"Your Eagle Userbot is ready to fly... Congratulations!!. Type {PREFIX}alive to check If your bot is working... Join @EAGLEUB for future updates...")
 
 
 uvloop.install() # speedup
@@ -39,5 +39,5 @@ uvloop.install() # speedup
 if __name__ == "__main__":
     app.run()
 
-me = app.get_me()
+
 
