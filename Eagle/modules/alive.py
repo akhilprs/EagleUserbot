@@ -59,7 +59,7 @@ async def alive(_, m):
     reply_msg += f"**★➾ Python**: `{__python_version__}`\n"
     reply_msg += f"**★➾ Pyrogram Version**: `{pyroversion}`\n"
     end_time = time.time()
-    reply_msg += f"**★➾Eagle Uptime**: {uptime}"
+    reply_msg += f"**★➾ Eagle Uptime**: {uptime}"
     photo = "https://te.legra.ph/file/543a358625382cc27fd2b.jpg"
     await m.delete()
     if m.reply_to_message:
