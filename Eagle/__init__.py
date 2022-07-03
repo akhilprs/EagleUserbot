@@ -1,3 +1,8 @@
+import os
+
+import tgcrypto
+
+
 import logging
 import uvloop
 import time
