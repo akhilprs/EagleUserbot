@@ -43,4 +43,4 @@ from .Eagle import Eagle
 
 
 if __name__ == "__main__":
-    Eagle().run()
+    eagle().run()
