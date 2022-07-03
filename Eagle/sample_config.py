@@ -27,7 +27,7 @@ class Config:
     G_DRIVE_CLIENT_ID = os.environ.get("G_DRIVE_CLIENT_ID", None)
     G_DRIVE_CLIENT_SECRET = os.environ.get("G_DRIVE_CLIENT_SECRET", None)
     
-    OWNER_ID = int(os.environ.get("OWNER_ID", "Default"))
+    OWNER_ID = int(os.environ.get("OWNER_ID", None)
     
     SUDO_USERS = set(int(x) for x in os.environ.get("SUDO_USERS", "").split())
     
