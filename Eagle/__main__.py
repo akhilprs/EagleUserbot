@@ -1,6 +1,6 @@
 
 
-from .Eagle import Eagle
+from .Eagle import eagle
 
 
 # from Eagle import *
