@@ -2,7 +2,7 @@
 from config import PREFIX 
 from Eagle import *
 import logging
-import uvloop
+
 import sys
 import importlib
 import glob
@@ -33,8 +33,7 @@ if __name__ == "__main__":
 
 print(f"Your Eagle Userbot is ready to fly... Congratulations!!. Type {PREFIX}alive to check If your bot is working... Join @EAGLEUB for future updates...")
 
-
-uvloop.install() # speedup
+ # speedup
 
 if __name__ == "__main__":
     app.run()
