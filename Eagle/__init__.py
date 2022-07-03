@@ -26,4 +26,4 @@ StartTime = time.time()
 
 app = Client(name="eagle", session_string=SESSION, api_id=API_ID, api_hash=API_HASH)
 
-uvloop.install()
+uvloop.install() # thoda fast ho jaa vai
