@@ -48,8 +48,8 @@ class Eagle(Client):
         if LAYER_UPDATE_INTERVAL:
             await check_feed(self)
         LOGGER.info(
-            f"Eagle based on Pyrogram v{__version__} "
-            f"(Layer {layer}) started on @{usr_bot_me.username}. "
+            f"Eagle Userbot is based on Pyrogram v{__version__} "
+            f"Your Eagle Userbot has been deployed successfully.... "
             "Hi."
         )
 
