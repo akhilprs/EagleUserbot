@@ -11,7 +11,7 @@ from Eagle import (
     LOGGER,
     # OWNER_ID,
     # SUDO_USERS,
-    TG_COMPANION_BOT,
+    TG_BOT,
     TMP_DOWNLOAD_DIRECTORY,
     TG_URI,
     TG_IRU_S_M_ID,
@@ -34,7 +34,7 @@ class Eagle(Client):
             workdir=TMP_DOWNLOAD_DIRECTORY,
             api_id=APP_ID,
             api_hash=API_HASH,
-            bot_token=TG_COMPANION_BOT,
+            bot_token=TG_BOT,
             parse_mode="html",
             sleep_threshold=60,
         )
