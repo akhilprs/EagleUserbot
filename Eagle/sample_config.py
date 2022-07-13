@@ -12,7 +12,7 @@ class Config:
     APP_ID = int(os.environ.get("APP_ID", 12345))
     API_HASH = os.environ.get("API_HASH", None)
     
-    TG_COMPANION_BOT = os.environ.get("TG_BOT_TOKEN_BF_HER", None)
+    TG_BOT = os.environ.get("TG_BOT_TOKEN_BF_HER", None)
    
     MAX_MESSAGE_LENGTH = 4096
     
