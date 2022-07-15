@@ -11,7 +11,7 @@
 
 ## Installing ⬇️
 
-> Click on options to expand. In general, you need a hosting server to run your bot.
+> Click on options to expand. You need a hosting server to run your bot. 
 
 <details>
 
